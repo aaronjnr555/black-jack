@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-family: cursive;
+    background-image: url("black\ jack\ logo.jpg");
+    background-size: cover;
+}
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+button{
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 0px;
+    border-radius: 2px;
+    margin-bottom: 5px;
+}
+#button{
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 0px;
+    border-radius: 2px;
+}
